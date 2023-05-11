@@ -1,0 +1,47 @@
+.photo-page{
+  
+    display: flex;
+    background-position:bottom;
+    background-image:url("../component/adv-form-banner.png");
+    transform: rotate(180deg);    
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60rem;
+    margin-top: 8rem;
+    }
+
+.main-container {
+    background-color: #CE2829;
+}
+
+.motto-container {
+   text-align: center;
+   padding-top: 2rem;
+}
+
+
+p {
+    font-size: 3.5rem;
+    color: #faf7f2;
+    transform: scaleY(1.5);
+    font-family: 'Barlow', sans-serif;
+    line-height: 2rem;
+}
+
+.main-container button{ 
+    background-color: #FDC913;
+    height: 4rem;
+    width: 10rem;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 2rem;
+    text-decoration: none;
+    border: 0rem;
+}
+
+.button-side {
+    padding-top: 2rem;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}

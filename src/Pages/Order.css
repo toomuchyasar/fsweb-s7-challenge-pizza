@@ -1,0 +1,168 @@
+.form-top-container {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.form-container {
+    width:600px;
+    color: white;  
+}
+
+.form-links{
+    padding-bottom: 1rem;
+}
+
+.link-dec {
+    text-decoration: none;
+    color: white;
+}
+
+
+/* ---------------------------------------- */
+.order {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.pizza {
+    width: 600px;
+    color: black;
+}
+
+.pizza-name {
+    margin-top: 2rem;
+    font-size: 1.5rem;
+}
+
+.product-spec {
+    padding-top: 2rem;
+    display: flex;  
+}
+
+.price {
+    width: 50%;
+}
+.rate {
+    width: 25%;
+}
+.times {
+    width: 25%;
+}
+.product-details {
+    color: grey;
+    line-height: 2rem;
+    margin-top: 3rem;
+}
+
+/* ---------------------------------------- */
+
+.pizza-selection {
+    margin-top: 2rem;
+    display: flex;
+    
+}
+
+.select-size{
+    color: black;
+    width: 50%;
+    
+}
+
+.select-thickness{
+    color: black;
+    width: 50%;
+    
+}
+
+.size-radio {
+    line-height: 2rem;
+}
+
+.size-text{
+    color: grey;
+    
+}
+
+/* ---------------------------------------- */
+
+.product-add {
+    color: grey;
+    margin-bottom: 1rem;
+}
+
+.product-supps {
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+
+.supps {
+  width: 33%;
+  line-height: 2.4rem;
+}
+
+/* ---------------------------------------- */
+
+
+/* ---------------------------------------- */
+
+
+/* ---------------------------------------- */
+
+
+/* ---------------------------------------- */
+.product-order-end {
+    display: flex;
+}
+
+.total-button {
+    text-decoration: none;
+    font-size: 1rem;
+    color: black;
+
+}
+
+.piece-buttons {
+    width: 30%;
+}
+
+.total-button button {
+    background-color: #FDC913;
+    height: 2rem;
+    width: 2rem;
+    font-size: 1rem;
+    font-weight: bold;
+    text-decoration: none;
+    border: 0rem;
+}
+
+.order-cost-total-cost {
+   width: 70%;
+   border: 1px solid;
+}
+.total-button .left-button {
+    border-radius: 0.5rem 0rem 0rem .5rem;
+}
+
+.supp-cost {
+    display: flex;
+    justify-content: space-between;
+}
+
+.total-cost {
+    display: flex;
+    justify-content: space-between;
+}
+
+.order-cost-text {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    line-height: 2rem;
+}
+
+.total-button .right-button {
+    border-radius: 0rem 0.5rem 0.5rem 0rem;
+}
+/* ---------------------------------------- */
